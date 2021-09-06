@@ -7,6 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/vijendrgaorh" target="blank"><img src="https://img.shields.io/twitter/follow/vijendrgaorh?logo=twitter&style=for-the-badge" alt="vijendrgaorh" /></a> </p>
 
+- 🔭 I’m currently working on **Blockchain, Solidity & Full Stack Web3 Development**
+
+- 🌱 I’m currently learning all about **Full MEAN Stack Development,Vue.js, Web3.js, Solidity, RUST, Haskell Functional Programming and everything related to Blockchain and Cryptos**
+
+- 👯 I’m looking to collaborate on **any Blockchain Project**
+
+- 🤝 I’m looking for help with **improving my Github profile**
+
 - 💬 Ask me about **Mobile Development, Xamarin, C#, React Native, Node.js**
 
 - 📫 How to reach me **vijayendra.gaur@gmail.com**
