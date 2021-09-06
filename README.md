@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vijayendra Gaur</h1>
-<h3 align="center">A passionate techie, a startup guy who loves to build and experiment new technologies</h3>
+<h3 align="center">A passionate techie, startup guy who loves to build and experiment new technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vjgaur&label=Profile%20views&color=0e75b6&style=flat" alt="vjgaur" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vijayendra.gaur@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/vijendr/](https://www.linkedin.com/in/vijendr/)
+- 📄 Know about my experiences [<a href="http://www.linkedin.com/in/vijendr/" target="_blank">Click Here </a>](<a href="http://www.linkedin.com/in/vijendr/" target="_blank">Click Here </a>)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
