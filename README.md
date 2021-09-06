@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vijayendra.gaur@gmail.com**
 
-- 📄 Know about my experiences [<a href="http://www.linkedin.com/in/vijendr/" target="_blank">Click Here </a>](<a href="http://www.linkedin.com/in/vijendr/" target="_blank">Click Here </a>)
+- 📄 Know about my experiences [<a href="http://www.linkedin.com/in/vijendr/" target="_blank">Click Here </a>]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
