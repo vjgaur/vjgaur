@@ -20,6 +20,7 @@
 - 📫 How to reach me **vijayendra.gaur@gmail.com**
 
 - 📄 Know about my experiences [<a href="http://www.linkedin.com/in/vijendr/" target="_blank">Click Here </a>]
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dev.vjgaur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.vjgaur" height="30" width="40" /></a>
