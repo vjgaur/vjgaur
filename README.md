@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Blockchain, Solidity & Full Stack Web3 Development**
 
-- 🌱 I’m currently learning all about **Full MEAN Stack Development,Vue.js, Web3.js, Solidity, RUST, Haskell Functional Programming and everything related to Blockchain and Cryptos**
+- 🌱 I’m currently learning all about **Full MERN Stack Development,Vue.js, Web3.js, Solidity, RUST, Haskell Functional Programming and everything related to Blockchain and Cryptos**
 
 - 👯 I’m looking to collaborate on **any Blockchain Project**
 
