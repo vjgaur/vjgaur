@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **any Blockchain Project**
 
-- 🤝 I’m looking for help to get **a Real Time Blockchain Development**
+- 🤝 I’m looking to get **a Real Time Blockchain Development Project**
 
 - 💬 Ask me about **Mobile Development, Xamarin, C#, React Native, Node.js**
 
