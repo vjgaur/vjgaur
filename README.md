@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vijayendra Gaur</h1>
-<h3 align="center">A passionate techie, startup guy who loves to build and experiment new technologies</h3>
+<h3 align="center">A passionate, self driven techie, a core startup guy who loves to build and experiment new technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vjgaur&label=Profile%20views&color=0e75b6&style=flat" alt="vjgaur" /> </p>
 
@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/vijendrgaorh" target="blank"><img src="https://img.shields.io/twitter/follow/vijendrgaorh?logo=twitter&style=for-the-badge" alt="vijendrgaorh" /></a> </p>
 
-- 🔭 I’m currently working on **Blockchain, Solidity & Full Stack Web3 Development**
+- 🔭 I’m currently working on transitioning my career into **Blockchain and Web3 Space**
 
-- 🌱 I’m currently learning all about **Full MERN Stack Development,React.js, Vue.js, Web3.js, Solidity, RUST, Haskell Functional Programming and everything related to Blockchain and Cryptos**
+- 🌱 I’m currently learning all about **Ethereum, Substrate/Polkadot, Solidity, RUST Programming**
 
 - 👯 I’m looking to collaborate on **any Blockchain Project**
 
 - 🤝 I’m looking to get **a Real Time Blockchain Development Project**
 
-- 💬 Ask me about **Mobile Development, Xamarin, C#, React Native, Node.js**
+- 💬 Ask me about **Mobile Development, Xamarin, C#, React Native, Fullstack MERN React.js, Node.js **
 
 - 📫 How to reach me **vijayendra.gaur@gmail.com**
 
