@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking to get **a Real Time Blockchain Development Project**
 
-- 💬 Ask me about **Mobile Development, Xamarin, C#, React Native, Fullstack MERN React.js, Node.js **
+- 💬 Ask me about **Mobile Development, Xamarin, C#, React Native, Fullstack MERN React.js, Node.js**
 
 - 📫 How to reach me **vijayendra.gaur@gmail.com**
 
