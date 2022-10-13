@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vjgaur" alt="vjgaur" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/vijendrgaorh" target="blank"><img src="https://img.shields.io/twitter/follow/vijendrgaorh?logo=twitter&style=for-the-badge" alt="vijendrgaorh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nceevij" target="blank"><img src="https://img.shields.io/twitter/follow/vijendrgaorh?logo=twitter&style=for-the-badge" alt="vijendrgaorh" /></a> </p>
 
 - 🔭 I’m currently working on transitioning my career into **Blockchain and Web3 Space**
 
