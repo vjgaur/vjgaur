@@ -9,7 +9,7 @@
 
 - 🎓 I am Alumni of Polkadot Blockchain Academy (PBA) program sponsored by Web3 Foundation and Polkadot
   
-- 📈 Currently designing and building next gen decentralised infrastructure paltform with a bunch of smart Blockchain Enginers and Founders
+- 📈 Currently designing and building next gen decentralised infrastructure platform 
 
 - 🌱 I’m contunining learning and building around **Ethereum, Substrate/Polkadot, Solidity, RUST Programming**
 
