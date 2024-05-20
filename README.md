@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/nceevij" target="blank"><img src="https://img.shields.io/twitter/follow/vijendrgaorh?logo=twitter&style=for-the-badge" alt="vijendrgaorh" /></a> </p>
 
-- 🔭 I am Alumni of Polkadot Blockchain Academy (PBA) program sponsored by Web3 Foundation and Polkadot
+- 🎓 I am Alumni of Polkadot Blockchain Academy (PBA) program sponsored by Web3 Foundation and Polkadot
   
 - 📈 Currently designing and building next gen decentralised infrastructure paltform with a bunch of smart Blockchain Enginers and Founders
 
 - 🌱 I’m contunining learning and building around **Ethereum, Substrate/Polkadot, Solidity, RUST Programming**
 
-- I have high interest in **Smart Contract Security, Cryptography, Defi, Blockchain Infrastructure**
+- 📖 I have high interest in **Smart Contract Security, Cryptography, Defi, Blockchain Infrastructure**
 
 - 📫 How to reach me **vijayendra.gaur@gmail.com**
 
