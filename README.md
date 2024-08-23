@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dev.vjgaur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.vjgaur" height="30" width="40" /></a>
-<a href="https://twitter.com/vijendrgaorh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vijendrgaorh" height="30" width="40" /></a>
+<a href="https://x.com/nceevij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vijendrgaorh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vijendr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijendr" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/vjendra gaorh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vjendra gaorh" height="30" width="40" /></a>
 </p>
